@@ -8,3 +8,6 @@
   - Train Data(28x28x3) : 4586개(1508/보, 1532/바위, 1546/가위)
   - Test Data(28x28x3) : 300개(100/보, 100/바위, 100/가위)
   - 최종 결과 : Accuracy(0.6533)
+  
+02. [손글씨, 와인, 유방암 구분](https://github.com/benestump/Aiffel/tree/master/02_Iris_classification)
+  - scikitlearn의 데이터를 이용하고 기본적인 머신러닝 모델의 사용방법과 성능 지표에 대해 배운다.
