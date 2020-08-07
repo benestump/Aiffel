@@ -15,6 +15,10 @@
 03. [뉴스기사 크롤링 및 분류](https://github.com/benestump/Aiffel/tree/master/03_news_crawling_classification)
   - 목적 : 크롤링을 위한 라이브러리의 사용법을 익히고 나이브 베이즈 분류기를 사용하여 카테고리를 분류하는 모델을 만들어 본다 
   
+04. [꽃종류 분류](https://github.com/benestump/Aiffel/tree/master/04_cat_dog_classification)
+  - 목적 : TensorFlow에서 제공하는 데이터를 활용하여 전이학습에 대해서 배우고 다양한 전략을 수행하는 방법을 익힌다 
+  - 사용된 모델 : VGG16, DenseNet169
+  
 [trouble shooting](https://github.com/benestump/Aiffel/tree/master/trouble_shooting)
    - 프로젝트 수행 중 발생한 문제들을 해결한 방법을 정리
 
