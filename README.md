@@ -19,6 +19,9 @@
   - 목적 : TensorFlow에서 제공하는 데이터를 활용하여 전이학습에 대해서 배우고 다양한 전략을 수행하는 방법을 익힌다 
   - 사용된 모델 : VGG16, DenseNet169
   
+05. [자전거 이용자수 예측](https://github.com/benestump/Aiffel/tree/master/05_bike_regression)
+  - 목적 : 선형 회귀의 전체 프로세스를 직접 구현하여 프로세스를 학습한다.
+
 [trouble shooting](https://github.com/benestump/Aiffel/tree/master/trouble_shooting)
    - 프로젝트 수행 중 발생한 문제들을 해결한 방법을 정리
 
