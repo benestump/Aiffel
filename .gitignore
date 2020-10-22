@@ -5,3 +5,5 @@
 
 #vscode
 .vscode/
+
+/01_rock_scissor_paper/data/*
