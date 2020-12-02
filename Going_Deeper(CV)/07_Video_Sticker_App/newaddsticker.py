@@ -48,7 +48,3 @@ def img2sticker(img_orig, img_sticker, detector_hog, landmark_predictor):
         cv2.addWeighted(sticker_area, 1.0, img_sticker, 0.7, 0)
 
     return img_bgr
-
-
-
-
