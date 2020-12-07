@@ -1,12 +1,16 @@
 # Aiffel
 
-### Aiffel:영상 처리 과정에서 진행한 프로젝트를 정리하기 위한 Repository입니다.
+
+- **설명 :** 영상 처리 과정에서 진행한 프로젝트를 정리하기 위한 Repository입니다.
+- **기관 :** [모두의 연구소](https://modulabs.co.kr)
+- **과정 :** [AIFFEL](https://aiffel.io)
+- **기간 :** 2020. 07. 23 ~ 2020. 12. 23
 
 
-#### 프로젝트
+# 프로젝트
 
 
-#### EXPLORATION : 다양한 분야의 프로젝트 수행을 통해 관심 분야를 찾는 과정
+## EXPLORATION : 다양한 분야의 프로젝트 수행을 통해 관심 분야를 찾는 과정
 
 
 |No| 제목 | 학습목표 | 데이터 | 모델 |
@@ -36,6 +40,32 @@
 |28|[Anomaly Detection with GAN](https://github.com/benestump/Aiffel/blob/master/Exploration/28_anomaly_detection/E28_Anomaly_Detection_with_GAN.ipynb)|Anomaly data가 부족한 상황에서 GAN을 이용하여 이미지 이상감지 모델을 구축하는 논리를 파악한다.|CIFAR-10|Skip-GANomaly|
 |29|[Ainize 서비스](https://github.com/benestump/mnist-mlp-app)|Ainize 서비스를 활용하여 포트폴리오를 만드는 법을 익히고 기본적인 Docker 사용법을 배운다.|||
 |30|[Music Transformer](https://github.com/benestump/Aiffel/blob/master/Exploration/30_music_transformer/E30_Music_Transformer.ipynb)|MIDE파일 형식을 이해하고 Music Transformer 모델을 구현하고 테스트를 수행한다.|MAESTO|Transformer|
+
+
+Going Deeper(CV) : Computer Vision 분야의 심화 프로젝트 수행 
+
+|No|제목|학습목표|데이터|모델|
+|---|---|----|----|----|
+|1|[ResNet](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/01_ResNet_Ablation_Study/G1_ResNet_Ablation_study.ipynb)|직접 ResNet을 구현하며 모델을 config에 따라 변경가능하도록 설계한다.||ResNet|
+|2|[Augmentation](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/02_Augmentation/G2_Augmentation.ipynb)|Augmentation 적용을 통해 학습을 시키고 최신 기법 및 활용에 대해 배운다.|tfds:Stanford dogs|ResNet50(CutMix, MixUp) |
+|3|[Object Detection](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/03_Object_Detection/G3_Object_Detection.ipynb)|Object Detection을 위한 바운딩 박스 데이터셋 전처리와 활용을 배운다.|tfds:kitti|RetinaNet|
+|4|[Semantic Segmentation](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/04_Semantic_Segmentation/G4_Semantic_Segmentation.ipynb)|Semantic Segmentation을 위한 데이터셋을 다루고 모델을 만드는 방법을 배운다.|KITTI|U-Net|
+|5|[Class Activation Map](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/05_Class_Activation_Map/G5_Class_Activation_Map.ipynb)|Classification model로 부터 CAM을 얻어 설명 가능한 딥러닝에 대한 기본 지식을 배운다.|tfds:cars196|ResNet50|
+|7|[Video Sticker App](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/07_Video_Sticker_App/G07_Video_Sticker_App.ipynb)|동영상을 다루는 법을 배우고 안정적인 동작을 위한 칼만 필터에 대한 개념을 배우고 이해한다.|||
+
+
+# 느낀점
+
+- 5개월의 과정을 통해 수많은 프로젝트를 수행하고 논문 리뷰, 토론을 통해서 많은 것을 배우고 열정적인 사람들과 함께 하면서 나 자신에 대한 부족한 점을 생각해보는 시간이 되었다. 
+- 아직도 배워야 할 것이 너무나 많고 앞으로도 꾸준히 공부할 것이 늘어날 것이라는 것이 막막하기도 하지만 다른 한편으로는 늘 새로운 것을 배우고 끊임없이 목표를 만들 수 있을것이라는 기대도 된다. 
+- 현실의 문제를 해결하는 것은 이론을 공부하는 것만으로는 많이 부족하고 하루라도 빨리 현업에서 수많은 문제들을 해결해보고 싶은 생각이 많이 들었다. 
+
+
+# 아쉬운 점 및 개선할 점 
+
+- 공부했던 것들을 정리하고 문서화하는데 아직은 많은 부족함이 있어서 시간이 지나고 나니 아쉬움이 남는다. 많은 공부를 하였지만 체계적으로 정리를 해두지 않아 완전히 내것이 되지 못했다는 생각이 들어 안타깝다. 
+- 팀프로젝트를 수행함에 있어서 경험의 부족이 많이 드러났다. 프로젝트 전체를 보는 눈이 부족하고 시간 관리, 팀원 관리 등 체계젹인 관리 방법에 대한 아쉬움이 남는다. 
+- 코로나라는 특수한 상황으로 인해 한 장소에 모여 토론하고 이야기를 나누면서 학습을 수행하는 시간이 너무나 부족했던 것이 아쉽다. 
 
 
 
