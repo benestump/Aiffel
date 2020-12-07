@@ -10,7 +10,7 @@
 # 프로젝트
 
 
-## EXPLORATION : 다양한 분야의 프로젝트 수행을 통해 관심 분야를 찾는 과정
+### EXPLORATION : 다양한 분야의 프로젝트 수행을 통해 관심 분야를 찾는 과정
 
 
 |No| 제목 | 학습목표 | 데이터 | 모델 |
@@ -42,7 +42,7 @@
 |30|[Music Transformer](https://github.com/benestump/Aiffel/blob/master/Exploration/30_music_transformer/E30_Music_Transformer.ipynb)|MIDE파일 형식을 이해하고 Music Transformer 모델을 구현하고 테스트를 수행한다.|MAESTO|Transformer|
 
 
-Going Deeper(CV) : Computer Vision 분야의 심화 프로젝트 수행 
+### Going Deeper(CV) : Computer Vision 분야의 심화 프로젝트 수행 
 
 |No|제목|학습목표|데이터|모델|
 |---|---|----|----|----|
