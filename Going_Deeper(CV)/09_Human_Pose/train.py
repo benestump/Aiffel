@@ -237,7 +237,7 @@ if __name__ == "__main__":
     tfrecords_dir = './tfrecords_mpii/'
     train_tfrecords = os.path.join(tfrecords_dir, 'train*')
     val_tfrecords = os.path.join(tfrecords_dir, 'val*')
-    epochs = 50
+    epochs = 10
     batch_size = 8
     num_heatmap = 16
     tensorboard_dir = './logs/'
