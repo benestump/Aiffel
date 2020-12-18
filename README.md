@@ -53,6 +53,7 @@
 |5|[Class Activation Map](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/05_Class_Activation_Map/G5_Class_Activation_Map.ipynb)|Classification model로 부터 CAM을 얻어 설명 가능한 딥러닝에 대한 기본 지식을 배운다.|tfds:cars196|ResNet50|
 |7|[Video Sticker App](https://github.com/benestump/Aiffel/blob/master/Going_Deeper(CV)/07_Video_Sticker_App/G07_Video_Sticker_App.ipynb)|동영상을 다루는 법을 배우고 안정적인 동작을 위한 칼만 필터에 대한 개념을 배우고 이해한다.|||
 |8|[Coarse to fine](https://github.com/benestump/Aiffel/tree/master/Going_Deeper(CV)/08_Coarse_to_fine)|라벨링 툴을 만드는 방법을 익히고 색상 값을 이용한 검출 방법을 배운다.|LFW|ResNet50|
+|9|[Human Pose Estimation](https://github.com/benestump/Aiffel/tree/master/Going_Deeper(CV)/09_Human_Pose)|Human pose estimation에 대한 개념과 이론을 배우고 이를 구헌하여 본다.|MPII|StackedHourglass Network, simplebaseline|
 
 
 # 느낀점
